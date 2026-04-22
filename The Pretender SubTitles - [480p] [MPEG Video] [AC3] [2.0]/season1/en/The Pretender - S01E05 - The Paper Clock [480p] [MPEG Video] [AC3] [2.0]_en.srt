@@ -1,0 +1,3546 @@
+﻿1
+00:00:01,335 --> 00:00:04,369
+<i>[ Clock Ticking ]</i>               
+
+
+2
+00:00:18,085 --> 00:00:20,084
+                    HI, JAROD.  
+
+
+3
+00:00:22,489 --> 00:00:24,489
+            MOM?                
+
+
+4
+00:00:26,694 --> 00:00:28,727
+WHAT ARE YOU SAYING?            
+
+
+5
+00:00:30,497 --> 00:00:32,564
+I CAN'T HEAR YOU.               
+
+
+6
+00:00:38,906 --> 00:00:41,172
+[ Ringing ]                     
+
+
+7
+00:00:41,241 --> 00:00:43,742
+            MOM?                
+
+
+8
+00:00:43,810 --> 00:00:47,111
+<i>[ Ticking, Ringing ]</i>            
+        MOM?                    
+
+
+9
+00:00:47,180 --> 00:00:49,614
+<i>[ Shrill Ringing ]</i>              
+
+
+10
+00:00:49,683 --> 00:00:53,752
+<i>[ Broots ] HE'S BEEN CALLING</i>    
+<i>EVERY TWO MINUTES LIKE CLOCKWORK</i>
+<i>BUT ONLY WANTS TO TALK TO YOU.</i>  
+
+
+11
+00:00:53,821 --> 00:00:56,822
+HERE'S YOUR EXTENSION, OKAY?    
+I'LL BE RIGHT OVER HERE.        
+
+
+12
+00:00:58,959 --> 00:01:02,361
+                    WHAT LINE?  
+WELL, DON'T YOU THINK           
+WE SHOULD WAIT FOR MISS PARKER? 
+
+
+13
+00:01:02,429 --> 00:01:06,931
+- WE'LL DO IT WITHOUT HER.      
+- SYDNEY, SHE'S GONNA KILL ME.  
+
+
+14
+00:01:07,000 --> 00:01:09,568
+                    WHAT LINE?  
+OKAY, TWO.                      
+
+
+15
+00:01:09,637 --> 00:01:13,071
+BUT KEEP HIM ON AS LONG         
+AS YOU CAN. I'VE ALREADY        
+INITIATED A TRACE.              
+
+
+16
+00:01:13,140 --> 00:01:15,073
+                    [ Beeping ] 
+
+
+17
+00:01:15,142 --> 00:01:17,242
+                <i> [ Sydney ]</i>     
+                <i> HELLO, JAROD?</i>  
+
+
+18
+00:01:19,312 --> 00:01:22,481
+I HAD THE DREAM AGAIN.          
+            ARE YOU ALL RIGHT?  
+
+
+19
+00:01:22,549 --> 00:01:24,783
+KEEP TALKING TO HIM.            
+WE ALMOST GOT HIM.              
+
+
+20
+00:01:27,687 --> 00:01:31,923
+- [ Loud Whistling Over Phone ] 
+- TELL BROOTS I DISCOVERED      
+  RADIO SHACK.                  
+
+
+21
+00:01:36,797 --> 00:01:38,730
+    STRANGE.                    
+
+
+22
+00:01:38,798 --> 00:01:41,065
+    FEELING HOMESICK.           
+
+
+23
+00:01:43,937 --> 00:01:45,904
+        ONLY I DON'T KNOW       
+        WHERE HOME IS.          
+
+
+24
+00:01:45,973 --> 00:01:48,340
+    YOUR HOME'S HERE, JAROD.    
+
+
+25
+00:01:48,408 --> 00:01:50,975
+        YOU WERE NEVER MEANT    
+        FOR THE OUTSIDE WORLD.  
+
+
+26
+00:01:51,044 --> 00:01:53,445
+SPARE ME THE WHITE-LEOPARD      
+SPEECH, SYDNEY.                 
+
+
+27
+00:01:53,513 --> 00:01:55,981
+SOMEBODY AT THE CENTRE          
+KNOWS WHO I AM.                 
+
+
+28
+00:01:56,049 --> 00:01:58,616
+I WANT THE TRUTH.               
+    I'M SURE WE CAN EXPLORE...  
+
+
+29
+00:01:58,685 --> 00:02:02,520
+            THESE QUESTIONS     
+            IF YOU COME BACK    
+            AND RESUME OUR WORK.
+
+
+30
+00:02:02,589 --> 00:02:04,589
+I WISH I COULD BELIEVE YOU.     
+
+
+31
+00:02:04,658 --> 00:02:08,292
+            WHAT YOU BELIEVE    
+            OR DON'T BELIEVE    
+            IS NOT THE ISSUE.   
+
+
+32
+00:02:08,361 --> 00:02:12,264
+    WHAT IS?                    
+    THOSE DIGITAL SIMULATIONS   
+    YOU STOLE.                  
+
+
+33
+00:02:12,333 --> 00:02:14,833
+        THEY CONTAIN THE ONLY   
+        EXISTING RECORD...      
+
+
+34
+00:02:14,901 --> 00:02:17,135
+        OF OVER 25 YEARS        
+         OF RESEARCH.           
+
+
+35
+00:02:17,204 --> 00:02:19,204
+            THE CENTRE--        
+
+
+36
+00:02:20,574 --> 00:02:22,507
+            I WANT THEM BACK.   
+
+
+37
+00:02:22,576 --> 00:02:26,611
+WELL, THEN PERHAPS THEY--       
+YOU-- WOULD CONSIDER A TRADE.   
+
+
+38
+00:02:27,848 --> 00:02:30,148
+A PIECE OF MY PAST              
+FOR A PIECE OF YOURS.           
+
+
+39
+00:02:30,217 --> 00:02:34,052
+[ Ringing ]                     
+
+
+40
+00:02:34,120 --> 00:02:36,521
+GET BACK TO ME, SYDNEY.         
+I'M RUNNING LATE.               
+
+
+41
+00:02:36,590 --> 00:02:39,357
+        - LATE FOR WHAT?        
+        - JUSTICE.              
+
+
+42
+00:02:44,731 --> 00:02:47,566
+        <i> [ Buzzing ]</i>            
+
+
+43
+00:02:53,740 --> 00:02:55,474
+            MR. HOLMES?         
+
+
+44
+00:02:57,577 --> 00:02:59,912
+            ISAAC.              
+
+
+45
+00:02:59,980 --> 00:03:01,813
+<i>MR.</i> DEXTER?                     
+
+
+46
+00:03:01,881 --> 00:03:05,216
+            IS SOMETHING WRONG? 
+YOU'RE A MAN.                   
+
+
+47
+00:03:05,285 --> 00:03:09,854
+            LAST TIME I CHECKED.
+BUT YOU DRESS                   
+LIKE A WOMAN.                   
+
+
+48
+00:03:09,923 --> 00:03:13,558
+        DIDN'T ANYBODY TELL YOU?
+NO.                             
+
+
+49
+00:03:13,627 --> 00:03:17,162
+        LISTEN. I KNOW YOU DON'T
+        KNOW ME, AND I'LL ADMIT 
+        I'M A LITTLE DIFFERENT. 
+
+
+50
+00:03:17,231 --> 00:03:21,733
+BUT IF YOU DON'T HELP ME,       
+THEY'RE GONNA PUT ME AWAY FASTER
+THAN YOU CAN SAY CHANEL NO. 5.  
+
+
+51
+00:03:21,802 --> 00:03:25,704
+    <i> I DIDN'T DO ANYTHING WRONG.</i>
+    <i> THOSE MEN WERE TRYING</i>      
+    <i> TO KILL ME.</i>                
+
+
+52
+00:03:25,773 --> 00:03:28,373
+        I JUST DEFENDED MYSELF. 
+
+
+53
+00:03:28,442 --> 00:03:32,577
+            YOU WALK OUT ON ME, 
+            I'M A DEAD MAN.     
+
+
+54
+00:03:32,646 --> 00:03:36,414
+DON'T WORRY, MR. DEXTER.        
+        <i> [ Patting Shoulder ]</i>   
+
+
+55
+00:03:36,483 --> 00:03:38,416
+I'LL STAND UP WITH YOU.         
+
+
+56
+00:03:39,486 --> 00:03:43,021
+    THANK YOU.                  
+    I KNEW YOU WERE A GOOD MAN. 
+
+
+57
+00:03:43,089 --> 00:03:45,824
+                I COULD SEE IT  
+                IN YOUR EYES.   
+    HERE.                       
+
+
+58
+00:03:45,893 --> 00:03:47,859
+YOUR MASCARA'S RUNNING.         
+
+
+59
+00:03:47,928 --> 00:03:49,928
+                    OH.         
+
+
+60
+00:03:51,599 --> 00:03:55,801
+            SO HOW LONG         
+            YOU BEEN A LAWYER?  
+ABOUT SEVEN MINUTES.            
+
+
+61
+00:03:58,271 --> 00:04:00,271
+                    OH.         
+
+
+62
+00:04:01,674 --> 00:04:05,177
+<i>[ Man Narrating ]</i>               
+
+
+63
+00:04:59,266 --> 00:05:02,134
+    [ Indistinct ]              
+
+
+64
+00:05:05,271 --> 00:05:07,705
+        <i> JAROD, PLEASE, JOIN US.</i>
+
+
+65
+00:05:07,774 --> 00:05:11,243
+<i>WE WANTED TO BE THE FIRST TO</i>    
+<i>CONGRATULATE YOU ON YOUR VICTORY</i>
+<i>IN COURT THIS MORNING.</i>          
+
+
+66
+00:05:11,311 --> 00:05:14,912
+    - IT WAS BEGINNER'S LUCK.   
+    -<i> WE HEARD YOUR CLIENT</i>      
+     <i> WAS QUITE A LOOKER.</i>       
+
+
+67
+00:05:14,981 --> 00:05:16,982
+    JUST HOW LUCKY DID YOU GET? 
+
+
+68
+00:05:17,050 --> 00:05:19,584
+<i>DON'T LET BRADLEY</i>               
+<i>GET UNDER YOUR SKIN.</i>            
+
+
+69
+00:05:19,652 --> 00:05:23,788
+ALL JUNIOR ASSOCIATES GET THROWN
+A RINGER THEIR                  
+FIRST TIME OUT.                 
+
+
+70
+00:05:23,857 --> 00:05:26,658
+THERE'S HONOR IN KEEPING        
+POOR, INNOCENT MEN              
+OUT OF JAIL.                    
+
+
+71
+00:05:26,726 --> 00:05:30,161
+            EVEN IF THEY DO     
+            WEAR CHIFFON.       
+<i>EXCUSE ME.</i>                      
+
+
+72
+00:05:30,230 --> 00:05:34,832
+MR. DUMONT, MICHAEL METZGER'S   
+WAITING IN RECEPTION.           
+                <i> THANKS, ANNIE.</i> 
+
+
+73
+00:05:34,901 --> 00:05:37,368
+    THANKFULLY, A CLIENT        
+    WHO'S NEITHER POOR          
+    NOR INNOCENT.               
+
+
+74
+00:05:37,437 --> 00:05:40,472
+            SPEAKING OF POOR,   
+            INNOCENT MEN,       
+
+
+75
+00:05:40,540 --> 00:05:42,874
+<i>HAVE YOU FINISHED YOUR BRIEF</i>    
+<i>ON THE WHITTAKER APPEAL?</i>        
+
+
+76
+00:05:42,943 --> 00:05:46,645
+<i>BEN, I'M SPENDING 70 HOURS</i>      
+<i>A WEEK ON THE METZGER MERGER.</i>   
+
+
+77
+00:05:46,713 --> 00:05:48,680
+MY PLATE IS FULL.               
+
+
+78
+00:05:48,749 --> 00:05:52,050
+        DUMONT IS A PIT BULL    
+        IN THE COURT,           
+        BUT SOMETIMES FORGETS...
+
+
+79
+00:05:52,118 --> 00:05:54,352
+        WHO SIGNS HIS PAYCHECKS.
+
+
+80
+00:05:54,421 --> 00:05:57,222
+    [ Chuckles ]                
+    ALL RIGHT, I'LL TAKE        
+    CARE OF IT.                 
+
+
+81
+00:05:57,291 --> 00:05:59,357
+OH, JAROD, IN CASE              
+YOU'RE INTERESTED,              
+
+
+82
+00:05:59,426 --> 00:06:03,594
+COLLINS DEPARTMENT STORE        
+IS HAVING A TWO-FOR-ONE SALE    
+ON THE LINGERIE SECTION.        
+
+
+83
+00:06:03,663 --> 00:06:06,064
+SEE YA, TIGER.                  
+                JAROD, KEEP UP  
+                THE GOOD WORK.  
+
+
+84
+00:06:06,133 --> 00:06:09,300
+<i>I'LL DO MY BEST, SIR.</i>           
+            ANNIE,              
+
+
+85
+00:06:09,369 --> 00:06:11,903
+            <i> THERE'S SOMETHING</i>  
+            <i> I WANT YOU TO DO.</i>  
+
+
+86
+00:06:11,971 --> 00:06:14,706
+BRAD, MAY I SPEAK TO YOU        
+FOR A MOMENT?                   
+            IT WAS A JOKE.      
+
+
+87
+00:06:14,775 --> 00:06:17,208
+I UNDERSTAND THAT. I WANTED     
+TO ASK YOU SOME QUESTIONS...    
+
+
+88
+00:06:17,277 --> 00:06:19,444
+ABOUT THE WHITTAKER TRIAL.      
+
+
+89
+00:06:21,548 --> 00:06:24,015
+    OLD MAN SLOANE LOST A MURDER
+    DEFENSE A FEW YEARS AGO,    
+
+
+90
+00:06:24,083 --> 00:06:26,551
+            AND I GOT STUCK     
+            HOLDING THE BAG.    
+
+
+91
+00:06:26,620 --> 00:06:28,853
+WHY WOULD SLOANE TIE UP         
+HIS BEST TRIAL ATTORNEY...      
+
+
+92
+00:06:28,922 --> 00:06:31,422
+WRITING AN APPEAL THAT COULD    
+BE HANDLED BY A FIRST-YEAR      
+LAW STUDENT?                    
+
+
+93
+00:06:31,491 --> 00:06:34,258
+    THE WHITTAKER CASE IS       
+    A RAW NERVE WITH SLOANE.    
+
+
+94
+00:06:34,327 --> 00:06:37,161
+            HE HATES TO LOSE.   
+LET ME WRITE THE APPEAL.        
+
+
+95
+00:06:37,230 --> 00:06:39,897
+<i>YOU SAID YOUR PLATE</i>             
+<i>IS FULL.</i>                        
+
+
+96
+00:06:39,966 --> 00:06:42,734
+AND I COULD USE THE PRACTICE.   
+
+
+97
+00:06:42,803 --> 00:06:47,139
+THE OLD MAN WILL HAVE MY HEAD   
+IF HE FINDS OUT I DUMPED THIS   
+ON A JUNIOR ASSOCIATE.          
+
+
+98
+00:06:47,207 --> 00:06:50,241
+    I CAN KEEP A SECRET         
+    IF YOU CAN.                 
+
+
+99
+00:06:51,377 --> 00:06:53,311
+    LET'S TALK.                 
+
+
+100
+00:06:53,379 --> 00:06:57,449
+YOU FIND DUMONT FOR ME NOW,     
+OR I'M GONNA FIND HIM MYSELF.   
+
+
+101
+00:06:57,517 --> 00:07:01,319
+<i>BASE IT ON MY PREVIOUS APPEALS</i>  
+<i>AND KEEP ME IN THE LOOP.</i>        
+
+
+102
+00:07:01,388 --> 00:07:04,255
+YOU'RE THE BOSS.                
+            NOT YET, BUT        
+            I'M WORKING ON IT.  
+
+
+103
+00:07:04,324 --> 00:07:08,092
+MR. METZGER. I JUST GOT         
+OFF THE PHONE WITH THE JUDGE.   
+
+
+104
+00:07:08,161 --> 00:07:10,962
+I THINK EVERYTHING'S GONNA WORK 
+OUT JUST THE WAY YOU WANT IT.   
+                        GOOD.   
+
+
+105
+00:07:11,031 --> 00:07:13,297
+    HAVE YOU LOST WEIGHT?       
+                MAYBE A COUPLE--
+
+
+106
+00:07:17,770 --> 00:07:19,704
+<i>[ Sydney ]</i>                      
+<i>MADAM DIRECTOR,</i>                 
+
+
+107
+00:07:19,773 --> 00:07:24,643
+ALL JAROD WANTS                 
+IS SOME SMALL PIECE OF HIMSELF, 
+OF HIS PAST.                    
+
+
+108
+00:07:24,711 --> 00:07:27,979
+I BELIEVE IF WE CAN             
+ACCEPT HIS TRADE OFFER,         
+
+
+109
+00:07:28,047 --> 00:07:30,148
+IT WOULD GO A LONG WAY          
+TOWARDS REESTABLISHING...       
+
+
+110
+00:07:30,216 --> 00:07:32,950
+THE KIND OF TRUST I NEED        
+TO BRING HIM BACK.              
+
+
+111
+00:07:33,020 --> 00:07:35,686
+            WHAT ABOUT S.I.S.?  
+
+
+112
+00:07:35,755 --> 00:07:40,492
+WELL, MISS PARKER BELIEVES      
+SHE CAN PISTOL-WHIP HER WAY     
+INTO ANY RESOLUTION.            
+
+
+113
+00:07:40,561 --> 00:07:43,261
+BUT I KNOW JAROD.               
+THE HARDER WE CHASE,            
+
+
+114
+00:07:43,329 --> 00:07:45,496
+THE HARDER HE'LL RUN.           
+
+
+115
+00:07:45,565 --> 00:07:48,299
+    I'LL DISCUSS YOUR PROPOSAL  
+    WITH THE TOWER.             
+
+
+116
+00:07:48,368 --> 00:07:50,968
+        BUT I MAKE NO PROMISES. 
+
+
+117
+00:08:01,647 --> 00:08:04,048
+        OH, DAMN.               
+
+
+118
+00:08:07,553 --> 00:08:10,488
+            THE IDEA IS TO GET  
+            ALL THE SAME COLORS 
+            ON THE SAME SIDE?   
+
+
+119
+00:08:10,557 --> 00:08:12,857
+[ Scoffs ]                      
+WHERE WERE YOU                  
+DURING THE '80s?                
+
+
+120
+00:08:12,926 --> 00:08:15,159
+    I LED A VERY ISOLATED LIFE. 
+
+
+121
+00:08:15,228 --> 00:08:17,495
+WHEN DID YOU QUIT SMOKING?      
+
+
+122
+00:08:17,564 --> 00:08:19,564
+HOW DID YOU KNOW THAT?          
+
+
+123
+00:08:19,632 --> 00:08:22,433
+OH, YOUR TREMBLING HANDS,       
+
+
+124
+00:08:22,502 --> 00:08:25,069
+            <i> NICOTINE STAINS</i>    
+            <i> ON YOUR FINGERTIPS,</i>
+            <i> IRRITABILITY.</i>      
+
+
+125
+00:08:25,138 --> 00:08:29,073
+YOU KNOW, YOU CAN TRY           
+A SIMPLE EPSOM SALT BATH.       
+
+
+126
+00:08:29,142 --> 00:08:32,010
+THE SALT, IT DRAWS THE TAR      
+AND NICOTINE OUT OF THE         
+BLOODSTREAM THROUGH THE SKIN.   
+
+
+127
+00:08:32,078 --> 00:08:34,979
+SO, YOU'RE A DOCTOR             
+AND A LAWYER?                   
+
+
+128
+00:08:35,048 --> 00:08:38,015
+                AND I'M WORKING 
+                ON INDIAN CHIEF.
+ANNIE.                          
+
+
+129
+00:08:38,084 --> 00:08:42,320
+WOULD YOU PLEASE TRANSCRIBE,    
+PROOF AND HAND-DELIVER THESE    
+TO MY BOAT TONIGHT?             
+
+
+130
+00:08:42,389 --> 00:08:46,358
+        TONIGHT? OH, NO, NO, NO.
+        MR. SLOANE, I CAN'T,    
+        BECAUSE MY DAUGHTER--   
+
+
+131
+00:08:46,426 --> 00:08:51,630
+IS A VERY LOVELY GIRL           
+WHO KNOWS HOW VALUABLE          
+HER MOTHER IS TO THIS FIRM.     
+
+
+132
+00:08:51,698 --> 00:08:54,633
+<i>ANNIE'S THE BEST, JAROD.</i>        
+
+
+133
+00:08:58,438 --> 00:09:00,939
+    ANNIE DO THIS.              
+     ANNIE DO THAT.             
+
+
+134
+00:09:01,007 --> 00:09:05,343
+I'LL TELL YOU-- IT'S LIKE       
+BEING SLOANE'S WIFE WITHOUT     
+THE FRINGE BENEFITS.            
+
+
+135
+00:09:05,412 --> 00:09:08,946
+<i>TOO BAD PAYCHECKS</i>               
+<i>ARE HARDER TO QUIT</i>              
+<i>THAN CIGARETTES.</i>                
+
+
+136
+00:09:09,015 --> 00:09:12,283
+SO, DID YOU NEED                
+SOMETHING TOO?                  
+
+
+137
+00:09:12,352 --> 00:09:15,053
+    ACTUALLY, BRADLEY DUMONT    
+    ASKED ME TO GO OVER         
+    AN OLD CASE FILE.           
+
+
+138
+00:09:15,121 --> 00:09:17,055
+    MARCUS WHITTAKER?           
+
+
+139
+00:09:17,124 --> 00:09:21,126
+OH, YEAH. MR. SLOANE            
+HAD THOSE FILES MOVED           
+DOWN TO THE BASEMENT.           
+
+
+140
+00:09:21,194 --> 00:09:24,829
+BUT I'M GONNA WARN YOU.         
+IT IS IMPOSSIBLE TO FIND        
+ANYTHING DOWN THERE.            
+
+
+141
+00:09:24,897 --> 00:09:26,831
+    NOTHING'S IMPOSSIBLE.       
+
+
+142
+00:10:21,154 --> 00:10:23,421
+                        <i> JAROD.</i> 
+
+
+143
+00:10:23,490 --> 00:10:25,423
+ISAAC, WHAT ARE YOU             
+DOING HERE?                     
+
+
+144
+00:10:25,492 --> 00:10:27,892
+            I GOT TO THINKING   
+            HOW NICE YOU WERE,  
+            HOW DECENT.         
+
+
+145
+00:10:27,961 --> 00:10:31,128
+        AND I WANTED TO REPAY   
+        YOUR KINDNESS.          
+        REPAY?                  
+
+
+146
+00:10:32,132 --> 00:10:34,365
+<i>MY CHARIOT.</i>                     
+            <i> ISAAC!</i>             
+
+
+147
+00:10:34,434 --> 00:10:36,700
+IT'S BEAUTIFUL.                 
+                [ Chuckles ]    
+
+
+148
+00:10:36,769 --> 00:10:39,470
+        IT'LL BE MORE BEAUTIFUL 
+        AFTER 37 PAYMENTS.      
+
+
+149
+00:10:39,539 --> 00:10:42,239
+    THAT'S WHEN I PLAN TO TRADE 
+    IT IN FOR A LIMOUSINE.      
+
+
+150
+00:10:42,308 --> 00:10:45,376
+        ACTUALLY, I OFFER       
+        A VERY VALUABLE SERVICE.
+
+
+151
+00:10:45,445 --> 00:10:48,979
+    YOU'D BE SURPRISED HOW MANY 
+    CABDRIVERS WON'T PICK UP    
+    A MAN IN A DRESS.           
+
+
+152
+00:10:49,048 --> 00:10:52,650
+REALLY? WHY?                    
+
+
+153
+00:10:54,120 --> 00:10:56,887
+            THE TRUTH IS,       
+            I'D LIKE TO OFFER   
+            MY SERVICES...      
+
+
+154
+00:10:56,956 --> 00:10:59,257
+    AS YOUR PERSONAL CHAUFFEUR. 
+
+
+155
+00:11:00,327 --> 00:11:04,095
+            NO KIDDING!         
+            WELL, THAT'S GREAT. 
+
+
+156
+00:11:05,832 --> 00:11:09,000
+        NOW, YOU SURE YOU HAVE  
+        A DRIVER'S LICENSE?     
+DON'T WORRY, BOSS.              
+
+
+157
+00:11:09,069 --> 00:11:11,035
+YOU'RE IN GOOD HANDS.           
+
+
+158
+00:11:11,104 --> 00:11:13,771
+        AND I PROMISE TO BE     
+        THE PERFECT LADY.       
+
+
+159
+00:11:13,840 --> 00:11:15,807
+<i>[ Horn Honking ]</i>                
+<i>[ Man Laughing ]</i>                
+<i>HEY, BABY!</i>                      
+
+
+160
+00:11:15,875 --> 00:11:19,110
+        UP YOURS, PAL!          
+<i>[ Tires Screeching ]</i>            
+
+
+161
+00:11:33,827 --> 00:11:35,827
+            [ Computer Rings ]  
+
+
+162
+00:11:38,331 --> 00:11:41,132
+        VERY GOOD.              
+
+
+163
+00:11:41,201 --> 00:11:44,234
+                <i> SYDNEY, A WORD?</i>
+
+
+164
+00:12:01,688 --> 00:12:04,889
+    DO YOU WANNA TELL ME        
+    WHAT'S GOING ON?            
+            <i> NOTHING, REALLY.</i>   
+
+
+165
+00:12:04,958 --> 00:12:07,992
+        AN ALPHA BRAIN WAVE     
+        EXPERIMENT.             
+
+
+166
+00:12:08,060 --> 00:12:11,629
+    <i> QUITE PROMISING, ACTUALLY.</i> 
+    THAT'S NOT WHAT I MEAN,     
+    AND YOU KNOW IT.            
+
+
+167
+00:12:12,699 --> 00:12:14,899
+            YOU SPOKE           
+            TO THE DIRECTOR?    
+
+
+168
+00:12:14,968 --> 00:12:17,335
+    ANSWER THE QUESTION!        
+
+
+169
+00:12:17,403 --> 00:12:20,939
+- JAROD WANTS TO MAKE A DEAL.   
+- A DEAL.                       
+
+
+170
+00:12:21,007 --> 00:12:23,107
+    HE WANTS TO FIND OUT        
+    THE TRUTH OR PART OF IT.    
+
+
+171
+00:12:23,176 --> 00:12:26,644
+        <i> IT IS THE HUMANE THING</i> 
+        <i> TO DO.</i>                 
+
+
+172
+00:12:26,713 --> 00:12:30,681
+YOU ARE OUT OF LINE             
+LECTURING ANYBODY               
+ABOUT HUMANITY.                 
+
+
+173
+00:12:30,750 --> 00:12:32,850
+I'M NOT THE ONE WHO KEPT        
+JAROD LOCKED UP                 
+FOR 30 YEARS.                   
+
+
+174
+00:12:32,919 --> 00:12:35,253
+<i>I'M KILLING</i>                     
+<i>YOUR DEAL, SYDNEY.</i>              
+
+
+175
+00:12:35,321 --> 00:12:38,122
+    AND THEN I'M GONNA          
+    FIND JAROD.                 
+
+
+176
+00:12:39,926 --> 00:12:42,693
+AND I'M GONNA END THIS THING    
+ONCE AND FOR ALL.               
+
+
+177
+00:13:23,136 --> 00:13:25,670
+EVERYBODY'S A CRITIC.           
+
+
+178
+00:13:26,773 --> 00:13:29,073
+<i>♪♪ [ Blues ]</i>                    
+
+
+179
+00:13:29,142 --> 00:13:32,243
+        DOESN'T THIS MUSIC      
+        JUST GIVE YOU CHILLS UP 
+        AND DOWN YOUR SPINE?    
+
+
+180
+00:13:32,311 --> 00:13:35,246
+IT'S VERY... SAD.               
+
+
+181
+00:13:35,314 --> 00:13:37,348
+        IT'S THE BLUES, BABY.   
+
+
+182
+00:13:37,417 --> 00:13:40,017
+    THE BLUES.                  
+
+
+183
+00:13:40,086 --> 00:13:42,319
+I LIKE IT.                      
+            IT'S ABOUT LIFE,    
+
+
+184
+00:13:42,388 --> 00:13:45,089
+            ABOUT PAIN--        
+            IT'S ABOUT TRUTH.   
+
+
+185
+00:13:45,158 --> 00:13:48,359
+TRUTH IS GOOD.                  
+            YEAH. LOOK AT ME,   
+            FOR EXAMPLE.        
+
+
+186
+00:13:48,428 --> 00:13:51,329
+                I COME OUT HERE 
+                EVERY DAY       
+                LIKE A TARGET.  
+
+
+187
+00:13:51,398 --> 00:13:54,565
+    AND I SAY TO THE WORLD,     
+    "HA!                        
+
+
+188
+00:13:54,634 --> 00:13:58,069
+    THIS IS ME.                 
+    TAKE IT OR LEAVE IT."       
+
+
+189
+00:13:58,137 --> 00:14:01,405
+CAN I ASK YOU A QUESTION?       
+                WHY DO I DRESS  
+                LIKE THIS?      
+
+
+190
+00:14:01,474 --> 00:14:03,907
+WELL, IT DOES SEEM              
+TO DRAW ATTENTION.              
+
+
+191
+00:14:03,976 --> 00:14:07,511
+    I DON'T KNOW WHY I DO IT.   
+    I JUST KNOW IT'S RIGHT      
+    FOR ME.                     
+
+
+192
+00:14:07,580 --> 00:14:09,614
+        I MEAN, I GREW UP LIKE  
+        EVERYBODY ELSE.         
+
+
+193
+00:14:09,683 --> 00:14:12,750
+        I PLAYED FOOTBALL,      
+        DATED A CHEERLEADER.    
+
+
+194
+00:14:12,819 --> 00:14:15,752
+    BUT I NEVER FELT COMPLETE   
+    UNTIL I FOUND THIS.         
+
+
+195
+00:14:15,821 --> 00:14:18,956
+    <i> IT HASN'T BEEN EASY THOUGH.</i>
+
+
+196
+00:14:19,025 --> 00:14:21,859
+WHY DO IT THEN?                 
+                <i> IT'S WHO I AM.</i> 
+
+
+197
+00:14:21,928 --> 00:14:24,895
+PEOPLE CAN'T GO AROUND          
+ACTING LIKE THEY'RE SOMETHING   
+THEY AREN'T.                    
+
+
+198
+00:14:24,964 --> 00:14:28,933
+    YOU DO THAT LONG ENOUGH,    
+    AND PRETTY SOON YOU CAN'T   
+    FIND YOURSELF ANYMORE.      
+
+
+199
+00:14:29,002 --> 00:14:31,636
+    KNOW WHAT I MEAN?           
+
+
+200
+00:14:32,839 --> 00:14:34,839
+    YEAH.                       
+
+
+201
+00:15:26,359 --> 00:15:29,194
+    SO, WHO WE LOOKIN' FOR?     
+
+
+202
+00:15:29,262 --> 00:15:31,028
+            <i> [ Buzzer Sounding ]</i>
+
+
+203
+00:15:31,097 --> 00:15:33,932
+<i>[ Jarod ]</i>                       
+<i>HIS NAME IS MARCUS WHITTAKER.</i>   
+
+
+204
+00:15:34,000 --> 00:15:38,169
+        - FRIEND OF YOURS?      
+        - NOT EXACTLY.          
+
+
+205
+00:15:38,237 --> 00:15:40,371
+                <i> [ Isaac ]</i>      
+                <i> WHAT'D HE DO?</i>  
+
+
+206
+00:15:41,741 --> 00:15:43,741
+<i>[ Jarod ]</i>                       
+<i>NOTHING.</i>                        
+
+
+207
+00:15:47,147 --> 00:15:49,180
+    NOTHING AT ALL.             
+
+
+208
+00:15:59,959 --> 00:16:03,561
+THE TOWER HAS CONSIDERED ALL    
+THE VARIABLES AND HAS DECIDED   
+TO MOVE FORWARD WITH THE DEAL.  
+
+
+209
+00:16:03,630 --> 00:16:07,232
+- YOU CAN'T BE SERIOUS.         
+- I THINK YOU KNOW THAT I AM.   
+
+
+210
+00:16:07,300 --> 00:16:10,034
+THE CHAIRMAN IS GOING           
+TO HEAR ABOUT THIS.             
+
+
+211
+00:16:10,103 --> 00:16:13,704
+        YOUR FATHER CAST        
+        THE DECIDING VOTE.      
+
+
+212
+00:16:13,773 --> 00:16:17,475
+<i>THE INFORMATION JAROD REQUESTED</i> 
+<i>WILL BE ON YOUR DESK</i>            
+<i>WITHIN THE HOUR.</i>                
+
+
+213
+00:16:17,544 --> 00:16:20,244
+    -<i> USE IT WISELY.</i>            
+    -<i> [ Elevator Bell Dings ]</i>   
+
+
+214
+00:16:25,318 --> 00:16:28,720
+[ Sydney ] YOU'LL ONLY HAVE ONE 
+SHOT AT THE TERRORIST, JAROD.   
+I HAD THE DREAM AGAIN.          
+
+
+215
+00:16:28,789 --> 00:16:33,124
+IT'S JUST A DREAM, JAROD.       
+FORGET ABOUT IT                 
+AND CONCENTRATE.                
+
+
+216
+00:16:33,192 --> 00:16:35,526
+    IS IT POSSIBLE...           
+
+
+217
+00:16:35,595 --> 00:16:39,263
+    TO FORGET WHO YOU ARE       
+    AND WHERE YOU CAME FROM?    
+
+
+218
+00:16:39,332 --> 00:16:42,800
+    JAROD, PLEASE.              
+
+
+219
+00:16:42,869 --> 00:16:47,504
+IT'S JUST THAT IN THIS DREAM,   
+I CAN'T SEE MY MOTHER'S FACE.   
+
+
+220
+00:16:47,573 --> 00:16:49,907
+            SHE'S IN THE YARD   
+            HANGING WASH.       
+
+
+221
+00:16:49,976 --> 00:16:52,677
+ONE SHOT, JAROD.                
+TIME'S RUNNING OUT.             
+
+
+222
+00:16:52,746 --> 00:16:54,879
+THE HOSTAGES                    
+ARE COUNTING ON YOU.            
+
+
+223
+00:16:54,948 --> 00:16:57,948
+BUT I WANNA SEE HER, SYDNEY.    
+I WANNA SEE MY MOTHER'S FACE!   
+
+
+224
+00:16:58,017 --> 00:17:00,818
+FINISH THE SIMULATION           
+AND I'LL SEE TO IT THAT YOU DO. 
+
+
+225
+00:17:00,887 --> 00:17:04,288
+                    PROMISE?    
+PROMISE.                        
+
+
+226
+00:17:10,563 --> 00:17:14,432
+        WAIT. I CAN'T           
+        COMPLETE THE MISSION.   
+
+
+227
+00:17:14,501 --> 00:17:16,634
+I MIGHT HIT A HOSTAGE.          
+
+
+228
+00:17:16,703 --> 00:17:19,770
+I MIGHT KILL                    
+AN INNOCENT PERSON.             
+            SOMETIMES, JAROD,   
+
+
+229
+00:17:19,839 --> 00:17:23,708
+<i>ONE LIFE MUST BE SACRIFICED</i>     
+<i>IN ORDER TO SAVE OTHERS.</i>        
+
+
+230
+00:17:27,213 --> 00:17:29,380
+            <i> [ Machine Beeps ]</i>  
+                <i> [ Video Stops ]</i>
+
+
+231
+00:17:53,072 --> 00:17:55,606
+[ Woman Reporter ]              
+MURDER SUSPECT                  
+MARCUS WHITTAKER,               
+
+
+232
+00:17:55,675 --> 00:17:58,476
+ACCUSED OF BEATING AUDREY PRICE 
+TO DEATH IN HER APARTMENT,      
+
+
+233
+00:17:58,545 --> 00:18:01,446
+WAS ARRESTED IN                 
+THE EARLY MORNING HOURS         
+IN HIS JANITOR QUARTERS...      
+
+
+234
+00:18:01,514 --> 00:18:03,747
+OF THIS WEST L.A.               
+APARTMENT BUILDING.             
+
+
+235
+00:18:03,816 --> 00:18:06,951
+MARCUS WHITTAKER HAS AN UNUSUAL 
+BENEFACTOR IN THIS CASE--       
+
+
+236
+00:18:07,020 --> 00:18:09,987
+HIS EMPLOYER, REAL ESTATE       
+MAGNATE MICHAEL METZGER,        
+
+
+237
+00:18:10,056 --> 00:18:13,991
+WHOSE COMPANY OWNS              
+THE BUILDING IN WHICH           
+THE MURDER TOOK PLACE.          
+
+
+238
+00:18:17,430 --> 00:18:19,664
+            HOW LONG WE GONNA   
+            STAY HERE?          
+
+
+239
+00:18:21,434 --> 00:18:23,835
+            HELLO?              
+
+
+240
+00:18:23,903 --> 00:18:26,371
+    <i> AUDREY PRICE'S DEATH</i>       
+    <i> IS A TRAGEDY.</i>              
+
+
+241
+00:18:26,439 --> 00:18:29,140
+BUT MARCUS WHITTAKER SHOULDN'T  
+BE FORCED TO TAKE THE RAP...    
+
+
+242
+00:18:29,209 --> 00:18:31,509
+    FOR THE SLOPPY HANDLING     
+    OF THIS INVESTIGATION.      
+
+
+243
+00:18:31,577 --> 00:18:35,312
+    I'M JUST GRATEFUL           
+    THAT BEN SLOANE HAS AGREED  
+    TO REPRESENT MARCUS.        
+
+
+244
+00:18:35,381 --> 00:18:38,750
+    MR. METZGER WAS WITH ME     
+    ON MY BOAT WHEN WORD        
+    REACHED HIM...              
+
+
+245
+00:18:38,818 --> 00:18:41,686
+        THAT A MURDER           
+        HAD TAKEN PLACE ON      
+        ONE OF HIS PROPERTIES.  
+
+
+246
+00:18:41,755 --> 00:18:45,089
+        NATURALLY, I OFFERED    
+        MY SERVICES.            
+
+
+247
+00:18:45,158 --> 00:18:48,759
+ISAAC, LET'S GO SHOPPING.       
+
+
+248
+00:18:48,828 --> 00:18:51,462
+    WHOO! NOW YOU'RE TALKING    
+    MY LANGUAGE.                
+
+
+249
+00:19:01,841 --> 00:19:03,775
+                <i> [ Man ]</i>        
+                <i> IT'S CREEPY.</i>   
+
+
+250
+00:19:03,843 --> 00:19:06,244
+            HE'S BEEN DOING THAT
+            FOR ALMOST AN HOUR. 
+
+
+251
+00:19:09,381 --> 00:19:12,417
+    CHECK OUT HIS GIRLFRIEND.   
+
+
+252
+00:19:14,988 --> 00:19:18,756
+    - ARE THESE ALL             
+      THE BOAT SHOES YOU HAVE?  
+    - YES, SIR.                 
+
+
+253
+00:19:19,826 --> 00:19:21,759
+    I'LL TAKE THEM ALL.         
+
+
+254
+00:19:21,828 --> 00:19:24,595
+            YOU WANT SEVEN PAIRS
+            OF BOAT SHOES?      
+
+
+255
+00:19:24,664 --> 00:19:28,833
+- MM-HMM.                       
+- DO YOU CARRY THESE IN A 13?   
+
+
+256
+00:19:32,105 --> 00:19:34,105
+                <i> [ Knocking ]</i>   
+
+
+257
+00:19:49,088 --> 00:19:51,589
+            WELL?               
+
+
+258
+00:19:51,657 --> 00:19:54,158
+    I DID IT.                   
+    JUST LIKE YOU SAID.         
+
+
+259
+00:19:54,226 --> 00:19:56,160
+            AND?                
+
+
+260
+00:19:56,229 --> 00:19:59,030
+    I DRAGGED IT AROUND         
+    BEHIND MY BIKE.             
+
+
+261
+00:19:59,098 --> 00:20:01,699
+        - EXCELLENT.            
+        - [ Scoffs ]            
+
+
+262
+00:20:01,768 --> 00:20:04,602
+        OH, YES, RIGHT.         
+        FIVE DOLLARS.           
+
+
+263
+00:20:04,670 --> 00:20:06,704
+    THAT'S RIGHT.               
+
+
+264
+00:20:08,407 --> 00:20:13,343
+I HAVE FRIENDS. WE COULD        
+REALLY MESS UP YOUR CAR         
+IF YOU'RE INTERESTED.           
+
+
+265
+00:20:13,412 --> 00:20:15,379
+        I'LL LET YOU KNOW.      
+
+
+266
+00:20:15,448 --> 00:20:17,014
+            COOL.               
+
+
+267
+00:20:32,766 --> 00:20:35,700
+MR. WHITTAKER IS THE ONLY       
+POSSIBLE PERPETRATOR.           
+
+
+268
+00:20:35,768 --> 00:20:38,702
+THE DEFENSE HAS NO RELEVANT     
+EVIDENCE TO THE CONTRARY.       
+
+
+269
+00:20:47,980 --> 00:20:50,848
+<i>YOU'RE WRONG, MR. EDWARDS.</i>      
+
+
+270
+00:20:52,251 --> 00:20:55,052
+<i>[ Edwards ]</i>                     
+<i>THANK YOU. ENJOY THE BOOK.</i>      
+
+
+271
+00:20:58,057 --> 00:21:02,160
+MY GOD. WHAT DID YOU DO,        
+DRAG THIS BEHIND A CAR?         
+
+
+272
+00:21:02,228 --> 00:21:05,763
+        WELL, ACTUALLY, I PAID  
+        A KID TO DRAG IT        
+        BEHIND HIS BIKE.        
+
+
+273
+00:21:05,832 --> 00:21:08,933
+    - TRUTHFULLY, IT'S BEEN     
+      LIKE A BIBLE TO ME.       
+    - WELL, I'M FLATTERED.      
+
+
+274
+00:21:09,002 --> 00:21:12,803
+WHOM SHOULD I MAKE              
+THIS OUT TO?                    
+            JOHN COREY, JR.     
+
+
+275
+00:21:12,872 --> 00:21:15,739
+I KNEW A JOHN COREY             
+AT DARTMOUTH. YOU'RE NOT--      
+
+
+276
+00:21:15,808 --> 00:21:19,276
+    GUILTY. DAD'S BEEN AFTER ME 
+    TO LOOK YOU UP FOR YEARS.   
+
+
+277
+00:21:19,345 --> 00:21:23,715
+<i>SO THERE'S YOUR FATHER WEARING</i>  
+<i>NOTHING BUT A DRUNKEN GRIN</i>      
+<i>RUNNING UP THE DORM HALLWAY...</i>  
+
+
+278
+00:21:23,783 --> 00:21:26,150
+            SHOUTING, "BANZAI!" 
+
+
+279
+00:21:26,218 --> 00:21:28,386
+DEAR OLD DAD.                   
+                    YEAH.       
+
+
+280
+00:21:28,454 --> 00:21:31,589
+        I NEVER SAW A BETTER    
+        LITIGATOR IN MY LIFE.   
+
+
+281
+00:21:31,658 --> 00:21:33,590
+HE SAID THE SAME THING          
+ABOUT YOU.                      
+
+
+282
+00:21:33,659 --> 00:21:37,094
+I ESPECIALLY ADMIRED THE WAY    
+YOU BROUGHT DOWN BEN SLOANE     
+A FEW YEARS AGO.                
+
+
+283
+00:21:37,163 --> 00:21:40,965
+<i>THE WHITTAKER</i>                   
+<i>TRIAL?</i>                          
+    OH. SLOANE HAD NO CASE.     
+
+
+284
+00:21:41,034 --> 00:21:43,901
+    REALLY? WHAT ABOUT          
+    THE SHOE PRINT?             
+
+
+285
+00:21:45,572 --> 00:21:48,138
+    HOW'D YOU KNOW ABOUT THAT?  
+<i>I DID A PAPER,</i>                  
+
+
+286
+00:21:48,207 --> 00:21:50,708
+<i> THE PEOPLE VS. WHITTAKER,</i>      
+ AT UCLA. I READ THE CASE FILES.
+
+
+287
+00:21:50,776 --> 00:21:55,313
+    - 5,000 PAGES?              
+    - 5,612 TO BE EXACT.        
+
+
+288
+00:21:58,418 --> 00:22:02,653
+    MICHAEL METZGER BUYS        
+    WHITTAKER THE MOST EXPENSIVE
+    LAWYER IN THE CITY,         
+
+
+289
+00:22:02,722 --> 00:22:04,722
+                AND THE GUY     
+                DROPS THE BALL. 
+
+
+290
+00:22:04,790 --> 00:22:08,626
+            <i> WE COULDN'T BELIEVE</i>
+            <i> HE MISSED IT.</i>      
+THE D.A. KNEW ABOUT THE PRINT?  
+
+
+291
+00:22:08,695 --> 00:22:10,828
+                WE PROVIDED IT  
+                IN DISCOVERY.   
+
+
+292
+00:22:10,897 --> 00:22:14,798
+    WE KEPT WAITING FOR SLOANE  
+    TO PLAY THE CARD,           
+    TO CREATE DOUBT.            
+
+
+293
+00:22:14,867 --> 00:22:16,901
+            <i> BUT IT NEVER CAME.</i> 
+
+
+294
+00:22:16,970 --> 00:22:18,969
+AND YOU NEVER SAID ANYTHING?    
+
+
+295
+00:22:19,038 --> 00:22:21,004
+            [ Sighs ]           
+            WE HAD WITNESSES... 
+
+
+296
+00:22:21,073 --> 00:22:24,341
+<i>WHO SAID THAT MARCUS WHITTAKER</i>  
+<i>WAS OBSESSED WITH AUDREY PRICE.</i> 
+
+
+297
+00:22:24,410 --> 00:22:26,977
+        HIS PRINTS WERE         
+        ALL OVER THE APARTMENT. 
+
+
+298
+00:22:27,046 --> 00:22:31,014
+<i>HE WAS CAUGHT IN HIS JANITOR'S</i>  
+<i>QUARTERS CLEANING HER BLOOD</i>     
+<i>OFF HIS CLOTHES.</i>                
+
+
+299
+00:22:31,084 --> 00:22:33,784
+NOW, YOU DON'T HAVE TO READ     
+PROUST TO CONNECT THOSE DOTS.   
+
+
+300
+00:22:33,853 --> 00:22:36,820
+    YET YOU NEVER FOUND         
+    A MURDER WEAPON.            
+
+
+301
+00:22:37,891 --> 00:22:39,823
+        MARCUS WHITTAKER        
+        WAS GUILTY OF MURDER.   
+
+
+302
+00:22:39,892 --> 00:22:44,262
+    <i> BEN SLOANE WAS JUST GUILTY</i> 
+    <i> OF BEING A BAD LAWYER.</i>     
+
+
+303
+00:22:44,330 --> 00:22:47,031
+<i>[ Man ]</i>                         
+<i>MR. SLOANE CAME TO</i>              
+<i>THE POLICE STATION.</i>             
+
+
+304
+00:22:48,934 --> 00:22:52,703
+HE WAS NICE TO ME.              
+ HE BROUGHT ME A HAM SANDWICH.  
+
+
+305
+00:22:54,507 --> 00:22:56,507
+        WHAT ARE YOU MAKING?    
+
+
+306
+00:22:56,576 --> 00:22:58,576
+        PAPER CLOCKS.           
+
+
+307
+00:22:59,779 --> 00:23:03,213
+A PEN PAL TAUGHT ME.            
+THEY REALLY WORK.               
+
+
+308
+00:23:03,283 --> 00:23:06,250
+THEY'D BE BETTER                
+WITH NOTE CARDS.                
+
+
+309
+00:23:06,319 --> 00:23:09,286
+THE-THE PAPER THE GUARDS        
+GIVE ME GETS ALL SOFT.          
+
+
+310
+00:23:10,856 --> 00:23:14,826
+    - WOULD THESE DO?           
+    - CAN I HAVE THOSE?         
+
+
+311
+00:23:16,395 --> 00:23:18,396
+                        SURE.   
+
+
+312
+00:23:21,568 --> 00:23:25,703
+        MARCUS, I WANNA ASK YOU 
+        SOME QUESTIONS          
+        ABOUT YOUR CASE.        
+
+
+313
+00:23:25,772 --> 00:23:28,238
+MR. SLOANE IS MY LAWYER.        
+
+
+314
+00:23:28,307 --> 00:23:31,542
+    I KNOW, BUT I'M HERE        
+    TO HELP HIM, AND YOU.       
+
+
+315
+00:23:31,610 --> 00:23:33,344
+                OKAY?           
+
+
+316
+00:23:34,680 --> 00:23:37,681
+    OKAY.                       
+            <i> CAN YOU TELL ME...</i> 
+
+
+317
+00:23:37,750 --> 00:23:41,552
+WHY YOU RAN AWAY THE NIGHT      
+THAT AUDREY PRICE WAS KILLED?   
+
+
+318
+00:23:41,621 --> 00:23:43,687
+    I DIDN'T WANNA              
+    GO TO JAIL AGAIN.           
+
+
+319
+00:23:43,756 --> 00:23:48,692
+YOU HAD GOTTEN INTO SOME TROUBLE
+WHEN YOU LIVED WITH YOUR MOTHER,
+IS THAT CORRECT?                
+
+
+320
+00:23:48,761 --> 00:23:51,762
+SOME BOYS WERE MAKING           
+FUN OF HER.                     
+
+
+321
+00:23:51,830 --> 00:23:53,897
+<i>I HAD TO FIGHT 'EM.</i>             
+
+
+322
+00:23:55,368 --> 00:23:57,768
+    I DIDN'T WANNA              
+    HURT ANYONE.                
+
+
+323
+00:23:59,138 --> 00:24:01,572
+<i>I HAD TO GO LIVE AT MILLTOWN.</i>   
+
+
+324
+00:24:01,641 --> 00:24:04,107
+        THE DETENTION FACILITY. 
+
+
+325
+00:24:05,945 --> 00:24:09,413
+            NOW I WANNA ASK YOU 
+            ABOUT THE NIGHT     
+            OF THE MURDER.      
+
+
+326
+00:24:12,519 --> 00:24:14,751
+    [ Exhales ]                 
+
+
+327
+00:24:14,821 --> 00:24:17,621
+I WAS BRINGING FLOWERS          
+TO MISS PRICE,                  
+
+
+328
+00:24:17,690 --> 00:24:19,890
+LIKE I DID EVERY DAY.           
+
+
+329
+00:24:19,959 --> 00:24:22,326
+<i>I WAS FINISHING UP LATE.</i>        
+
+
+330
+00:24:22,394 --> 00:24:25,997
+<i>SHE WOULD ALWAYS PAY ME</i>         
+<i>AN EXTRA TWO DOLLARS FOR THEM.</i>  
+
+
+331
+00:24:28,501 --> 00:24:32,102
+    [ Clears Throat ]           
+    BUT THIS TIME,              
+    WHEN I WALKED IN,           
+
+
+332
+00:24:32,171 --> 00:24:34,605
+I SAW HER BODY ON THE FLOOR.    
+
+
+333
+00:24:38,444 --> 00:24:41,279
+            MARCUS? MARCUS?     
+
+
+334
+00:24:41,347 --> 00:24:44,448
+            IT'S OKAY. YOU DON'T
+            HAVE TO BE AFRAID.  
+
+
+335
+00:24:47,186 --> 00:24:49,720
+SHE WAS ALL TWISTED UP.         
+
+
+336
+00:24:49,788 --> 00:24:51,755
+HER FACE WAS COVERED            
+WITH BLOOD.                     
+
+
+337
+00:24:55,494 --> 00:24:58,462
+    THE-- THE OWL               
+    WAS SITTING BESIDE HER.     
+
+
+338
+00:24:58,531 --> 00:25:00,931
+            THE OWL?            
+
+
+339
+00:25:01,000 --> 00:25:04,234
+        MADE OF ROCK.           
+        IT WAS GREEN.           
+
+
+340
+00:25:04,303 --> 00:25:06,704
+    MISS PRICE HAD              
+    A WHOLE FAMILY OF THEM.     
+
+
+341
+00:25:06,772 --> 00:25:10,474
+    SHE KEPT THEM ON TOP        
+    OF HER COFFEE TABLE.        
+
+
+342
+00:25:10,543 --> 00:25:12,510
+<i>SHE LOOKED SO QUIET.</i>            
+
+
+343
+00:25:13,680 --> 00:25:17,648
+LIKE SHE WAS SLEEPING,          
+EXCEPT FOR THE BLOOD.           
+
+
+344
+00:25:19,552 --> 00:25:22,519
+                YOU LIKED HER.  
+SHE WAS NICE TO ME.             
+
+
+345
+00:25:25,324 --> 00:25:28,092
+THE OTHER LAWYER SAID           
+I WANTED TO TOUCH HER,          
+
+
+346
+00:25:28,160 --> 00:25:30,861
+BUT I JUST THOUGHT              
+SHE WAS NICE.                   
+
+
+347
+00:25:33,499 --> 00:25:37,501
+        DID YOU EVER NOTICE HER 
+        HAVING VISITORS?        
+
+
+348
+00:25:37,570 --> 00:25:40,404
+                <i> BOYFRIENDS?</i>    
+
+
+349
+00:25:40,473 --> 00:25:45,175
+MR. METZGER WOULD COME          
+VISIT HER AT LUNCHTIME          
+ALMOST EVERY DAY.               
+
+
+350
+00:25:45,244 --> 00:25:47,311
+                MR. METZGER?    
+YEAH.                           
+
+
+351
+00:25:47,380 --> 00:25:50,814
+HE HAD A COOL BLACK CAR.        
+
+
+352
+00:25:50,884 --> 00:25:55,119
+IT HAD REAL SHINY WHEELS ON IT  
+AND THE TOP WAS GONE.           
+                        MARCUS. 
+
+
+353
+00:25:55,188 --> 00:26:00,191
+    DID YOU EVER TELL MR. SLOANE
+    OR THE POLICE ABOUT         
+    MR. METZGER'S VISITS?       
+
+
+354
+00:26:00,259 --> 00:26:03,294
+OH, MR. SLOANE SAID             
+THAT I SHOULDN'T SAY NOTHING.   
+
+
+355
+00:26:03,362 --> 00:26:05,896
+<i>IT MIGHT NOT LOOK GOOD.</i>         
+
+
+356
+00:26:05,964 --> 00:26:09,132
+MR. SLOANE ALWAYS               
+LOOKS OUT FOR ME.               
+
+
+357
+00:26:12,305 --> 00:26:14,638
+    THEY REALLY WORK.           
+
+
+358
+00:26:39,732 --> 00:26:43,800
+                [ Line Ringing ]
+IT'S 9:20, AND MICHAEL METZGER  
+HAS JUST KILLED A WOMAN.        
+
+
+359
+00:26:43,869 --> 00:26:47,271
+WHO DOES HE CALL?               
+YOU'VE REACHED BENJAMIN SLOANE  
+AT THE MARINA.                  
+
+
+360
+00:26:47,340 --> 00:26:51,875
+I WISH I WAS ON MY BOAT         
+RIGHT NOW, BUT I'M PROBABLY IN  
+MY OFFICE WORKING TO PAY FOR IT.
+
+
+361
+00:26:51,944 --> 00:26:54,445
+    LEAVE YOUR NAME AND NUMBER  
+    AND I'LL GET BACK TO YOU.   
+
+
+362
+00:26:54,513 --> 00:26:56,747
+            [ Machine Beeps ]   
+
+
+363
+00:27:04,857 --> 00:27:08,759
+    I DON'T UNDERSTAND.         
+    WHY WOULD A DEFENSE LAWYER  
+    LIKE MR. SLOANE...          
+
+
+364
+00:27:08,828 --> 00:27:11,362
+    <i> PUT A POOR, INNOCENT MAN</i>   
+    <i> IN JAIL?</i>                   
+
+
+365
+00:27:15,368 --> 00:27:17,368
+        TO KEEP A RICH,         
+        GUILTY ONE OUT.         
+
+
+366
+00:27:27,780 --> 00:27:29,747
+<i>[ Clock Ticking ]</i>               
+
+
+367
+00:27:34,887 --> 00:27:36,887
+                    HI, JAROD.  
+
+
+368
+00:27:38,557 --> 00:27:40,824
+[ Ringing ]                     
+
+
+369
+00:27:40,893 --> 00:27:44,094
+            MOM?                
+
+
+370
+00:27:44,162 --> 00:27:46,796
+<i>[ Ringing Continues ]</i>           
+        MOM?                    
+
+
+371
+00:27:52,004 --> 00:27:55,372
+    TIME'S UP, SYDNEY.          
+    I NEED AN ANSWER.           
+
+
+372
+00:27:55,440 --> 00:27:57,441
+<i>[ Sydney ]</i>                      
+<i>MISS PARKER'S NOT HAPPY.</i>        
+
+
+373
+00:27:57,509 --> 00:27:59,576
+<i>IN FACT, SHE'S REMOVED HERSELF</i>  
+<i>FROM THIS CASE...</i>               
+
+
+374
+00:27:59,645 --> 00:28:02,412
+<i>BECAUSE THE CENTRE HAS AGREED</i>   
+<i>TO YOUR REQUEST, JAROD.</i>         
+
+
+375
+00:28:02,481 --> 00:28:05,382
+    YOUR INFORMATION IN RETURN  
+    FOR THE STOLEN DISKS.       
+
+
+376
+00:28:05,451 --> 00:28:07,151
+    THEY SAID THAT?             
+
+
+377
+00:28:07,220 --> 00:28:09,953
+            WE-- YOU AND I--    
+
+
+378
+00:28:10,022 --> 00:28:14,925
+    HAVE GUARANTEES             
+    FROM THE COUNCIL CHAIRMAN   
+    AND THE DIRECTOR.           
+
+
+379
+00:28:16,161 --> 00:28:18,095
+    I'M SENDING IT THROUGH NOW. 
+
+
+380
+00:28:18,163 --> 00:28:20,898
+    HOPE THIS IS WHAT           
+    YOU NEED, JAROD.            
+
+
+381
+00:28:20,967 --> 00:28:23,834
+            [ Computer Rings ]  
+
+
+382
+00:28:29,875 --> 00:28:33,710
+IS THIS HER, SYDNEY?            
+ IS THIS MY MOTHER?             
+
+
+383
+00:28:33,779 --> 00:28:36,614
+        YES, IT IS.             
+
+
+384
+00:28:36,682 --> 00:28:41,418
+I'LL-I'LL MEET YOU AT THE PLACE 
+AND TIME WE AGREED ON EARLIER.  
+
+
+385
+00:28:57,103 --> 00:29:02,173
+MR. SLOANE, IS IT TRUE          
+THAT YOUR CLIENT WILL NOT BE    
+TESTIFYING IN HIS OWN DEFENSE?  
+
+
+386
+00:29:02,241 --> 00:29:05,042
+MR. WHITTAKER SUFFERS FROM      
+A SEVERE LEARNING DISABILITY.   
+
+
+387
+00:29:05,111 --> 00:29:08,978
+IT WAS HIS FEELING AND MINE     
+THAT IT WAS NOT IN HIS          
+BEST INTEREST TO TAKE THE STAND.
+
+
+388
+00:29:09,047 --> 00:29:13,550
+<i>[ Reporter ]</i>                    
+<i>WELL, WHAT IS YOUR ASSESSMENT OF</i>
+<i>THE PROSECUTION'S CASE SO FAR?</i>  
+
+
+389
+00:29:13,618 --> 00:29:17,020
+I THINK THIS DELIBERATION       
+DOESN'T BODE WELL               
+FOR THE PROSECUTION,            
+
+
+390
+00:29:17,089 --> 00:29:20,924
+ESPECIALLY IN LIGHT OF THE FACT 
+THAT THEY STILL HAVEN'T PRODUCED
+THE MURDER WEAPON.              
+
+
+391
+00:29:20,992 --> 00:29:24,761
+THE MURDER WEAPON.              
+THE MURDER WEAPON.              
+PRODUCED THE MURDER WEAPON.     
+
+
+392
+00:29:24,830 --> 00:29:26,963
+        YEAH. I WONDER WHY.     
+
+
+393
+00:29:29,801 --> 00:29:31,735
+<i>[ Knocking ]</i>                    
+
+
+394
+00:29:33,639 --> 00:29:37,441
+        BRADLEY, WILL YOU       
+        CHECK MY BRIEF FOR      
+        THE WHITTAKER HEARING?  
+
+
+395
+00:29:37,510 --> 00:29:40,444
+        I WORKED                
+        FROM YOUR OLD APPEAL,   
+        AND I MADE A FEW NOTES. 
+
+
+396
+00:29:40,513 --> 00:29:44,214
+            YOU WHAT?           
+    I WENT OVER                 
+    THE OLD CASE FILE.          
+
+
+397
+00:29:44,283 --> 00:29:47,751
+THERE'S SOME AREAS              
+WE SHOULD EXPLORE.              
+            NO, THERE AREN'T!   
+
+
+398
+00:29:50,389 --> 00:29:54,557
+    COPY MY DRAFT!              
+    CHANGE THE DATE.            
+    STAMP MY SIGNATURE ON IT.   
+
+
+399
+00:29:54,626 --> 00:29:57,961
+            GET IT TO THE COURT 
+            BY 5:00.            
+
+
+400
+00:29:58,030 --> 00:30:02,066
+    IF YOU CAN'T HANDLE THAT,   
+    I'LL HIRE A MONKEY WHO CAN. 
+
+
+401
+00:30:06,638 --> 00:30:09,639
+            SURE THING, BRAD.   
+    [ Whirring ]                
+
+
+402
+00:30:17,649 --> 00:30:20,117
+                SHOOT.          
+                DAMN IT!        
+
+
+403
+00:30:30,896 --> 00:30:33,496
+<i>[ Car Door Closes ]</i>             
+
+
+404
+00:30:33,565 --> 00:30:37,233
+DON'T FIGHT IT, BROTHER.        
+
+
+405
+00:30:37,302 --> 00:30:40,236
+AT TIMES LIKE THIS,             
+A MAN'S GOTTA BELIEVE IN FATE.  
+
+
+406
+00:30:40,305 --> 00:30:43,240
+<i>BAD LUCK,</i>                       
+
+
+407
+00:30:43,309 --> 00:30:45,309
+MEET GOOD FORTUNE.              
+
+
+408
+00:30:47,446 --> 00:30:49,379
+<i>MY CHARIOT.</i>                     
+
+
+409
+00:31:00,058 --> 00:31:03,393
+<i>[ Whittaker ] I GOT A LETTER</i>    
+<i>FROM MY MOM. SHE'S REALLY SICK.</i> 
+<i>SHE SHOULDN'T BE ALONE.</i>         
+
+
+410
+00:31:03,461 --> 00:31:07,497
+        DON'T WORRY, MARCUS.    
+        YOU'RE GOING TO SEE     
+        YOUR MOTHER AGAIN SOON. 
+
+
+411
+00:31:07,565 --> 00:31:11,601
+    I PROMISE. BUT FIRST,       
+    WE HAVE TO GO TO COURT...   
+
+
+412
+00:31:11,670 --> 00:31:13,736
+            ONE MORE TIME.      
+
+
+413
+00:31:13,805 --> 00:31:17,907
+                MR. SLOANE WILL 
+                BE THERE TOO.   
+WHAT DO I HAVE TO DO?           
+
+
+414
+00:31:17,976 --> 00:31:20,109
+                TRUST ME.       
+
+
+415
+00:31:22,681 --> 00:31:26,049
+<i>[ Isaac ]</i>                       
+<i>SO, HOW WAS YOUR LUNCH MEETING?</i> 
+<i>[ Dumont Chuckles ]</i>             
+
+
+416
+00:31:26,117 --> 00:31:28,619
+EXTREMELY PROFITABLE.           
+
+
+417
+00:31:28,687 --> 00:31:31,888
+ARRIVING IN THIS LIMO           
+DIDN'T HURT NEGOTIATIONS EITHER.
+
+
+418
+00:31:36,661 --> 00:31:40,564
+    EXCUSE ME. UM, SIR,         
+    THIS ISN'T THE WAY          
+    BACK TO THE OFFICE.         
+
+
+419
+00:31:40,633 --> 00:31:44,968
+IT'S SUCH A FABULOUS DAY,       
+I THOUGHT WE'D TAKE             
+A LITTLE<i> RIDE.</i>                  
+
+
+420
+00:31:45,037 --> 00:31:48,372
+                <i> [ Chuckling ]</i>  
+        A RIDE?                 
+
+
+421
+00:31:48,440 --> 00:31:50,373
+        TO-- TO WHERE?          
+
+
+422
+00:31:50,442 --> 00:31:53,744
+    [ Laughing ]                
+                        <i> HEY!</i>   
+
+
+423
+00:31:53,812 --> 00:31:56,046
+<i>[ Doors Locking ]</i>               
+
+
+424
+00:31:56,114 --> 00:31:58,148
+        WHAT THE--              
+
+
+425
+00:32:11,063 --> 00:32:15,498
+<i>IN THE MATTER OF</i>                
+BEAUMONT VS. MARKSWATCH--       
+
+
+426
+00:32:15,567 --> 00:32:18,268
+            JAROD.              
+
+
+427
+00:32:18,337 --> 00:32:20,770
+    I WANTED TO CONGRATULATE YOU
+    ON THE WHITTAKER APPEAL.    
+
+
+428
+00:32:20,839 --> 00:32:24,675
+<i>DUMONT SAYS THAT THE NEW TRIAL</i>  
+<i>IS A SLAM DUNK.</i>                 
+        NEW TRIAL?              
+
+
+429
+00:32:24,743 --> 00:32:27,844
+    THE COURT HAS ACCEPTED      
+    DUMONT'S MOTION TO          
+    PRESENT NEW EVIDENCE.       
+
+
+430
+00:32:27,913 --> 00:32:29,780
+        EVIDENCE?               
+
+
+431
+00:32:29,848 --> 00:32:33,115
+YES, HE'S CONFIDENT THAT        
+HE'S GONNA HAVE A WARRANT FOR   
+THE MURDER WEAPON BY TOMORROW.  
+
+
+432
+00:32:33,184 --> 00:32:36,086
+            HE DIDN'T TELL YOU? 
+
+
+433
+00:32:36,155 --> 00:32:38,721
+<i>[ Intercom Beeps ]</i>              
+    ANNIE, WHERE'S DUMONT?      
+
+
+434
+00:32:38,790 --> 00:32:40,723
+<i>[ Annie ]</i>                       
+<i>HE'S BEEN OUT ALL AFTERNOON.</i>    
+
+
+435
+00:32:40,792 --> 00:32:43,826
+THE LAST I HEARD, HE WAS HAVING 
+LUNCH WITH IRA KLEIN,           
+THE CRIMINAL ATTORNEY--         
+
+
+436
+00:32:43,895 --> 00:32:48,431
+            I KNOW WHO HE IS!   
+            ANNIE!              
+
+
+437
+00:32:48,500 --> 00:32:51,101
+        <i> [ Muttering, Shouting ]</i>
+
+
+438
+00:32:51,169 --> 00:32:53,603
+    I WANNA KNOW                
+    WHERE THE HELL DUMONT IS!   
+
+
+439
+00:32:53,672 --> 00:32:56,006
+<i>[ Dumont ]</i>                      
+<i>HEY, PAL, THIS IS KIDNAPPING.</i>   
+
+
+440
+00:32:56,074 --> 00:32:59,142
+<i>♪♪ [ Blues ]</i>                    
+    I'M A VERY SUCCESSFUL       
+    ATTORNEY, YOU KNOW.         
+
+
+441
+00:32:59,210 --> 00:33:01,644
+UH-UH-UH-UH-UH.                 
+
+
+442
+00:33:01,714 --> 00:33:06,449
+THAT'S GONNA COST YOU           
+ANOTHER HUNDRED MILES, ESQUIRE. 
+[ Laughing ]                    
+
+
+443
+00:33:06,518 --> 00:33:08,518
+                        <i> WHOO!</i>  
+
+
+444
+00:33:47,459 --> 00:33:50,694
+<i>[ Sloane ]</i>                      
+<i>MR. METZGER WAS WITH ME</i>         
+<i>ON MY BOAT WHEN WORD REACHED--</i>  
+
+
+445
+00:33:52,965 --> 00:33:55,499
+<i>MR. METZGER WAS WITH ME</i>         
+<i>ON MY BOAT WHEN WORD REACHED--</i>  
+
+
+446
+00:33:58,170 --> 00:34:01,104
+<i>[ Voice Distorted ]</i>             
+<i>WITH ME ON MY BOAT.</i>             
+
+
+447
+00:34:11,717 --> 00:34:15,785
+    HELLO. I WOULD LIKE TO BOOK 
+    A NONSTOP FLIGHT            
+    TO LOS ANGELES.             
+
+
+448
+00:34:23,028 --> 00:34:25,695
+<i>[ Sloane ]</i>                      
+<i>TELL THE ASSOCIATES</i>             
+<i>THIS IS TOP PRIORITY.</i>           
+
+
+449
+00:34:25,764 --> 00:34:28,431
+        <i> [ Keyboarding ]</i>        
+
+
+450
+00:34:30,636 --> 00:34:33,970
+YES, I'D LIKE THE NUMBER        
+FOR THE<i> LOS ANGELES CHRONICLE.</i>  
+
+
+451
+00:34:34,039 --> 00:34:36,139
+        THE CITY DESK, PLEASE.  
+
+
+452
+00:34:42,447 --> 00:34:45,381
+<i>[ Sloane ]</i>                      
+<i>ANNIE, THERE'S SOMETHING</i>        
+<i>I WANT YOU TO DO FOR ME.</i>        
+
+
+453
+00:34:45,451 --> 00:34:47,484
+<i>[ Phone Ringing ]</i>               
+
+
+454
+00:34:49,087 --> 00:34:51,354
+                HELLO?          
+
+
+455
+00:34:51,422 --> 00:34:53,890
+            MR. SLOANE.         
+            WELL, NO, SIR.      
+
+
+456
+00:34:53,959 --> 00:34:57,727
+I WAS JUST LISTENING TO SOME    
+VERY INTERESTING OLD RECORDINGS.
+
+
+457
+00:34:57,796 --> 00:35:00,597
+        THE HEARING IS TOMORROW 
+        AT 9:00 A.M.?           
+
+
+458
+00:35:00,665 --> 00:35:03,933
+    YES, SIR, BUT SHOULDN'T     
+    WE WAIT FOR MR. DUMONT?     
+
+
+459
+00:35:04,002 --> 00:35:07,103
+            YES, SIR.           
+            I UNDERSTAND.       
+
+
+460
+00:35:07,171 --> 00:35:09,506
+    I'LL SEE YOU FIRST THING    
+    TOMORROW MORNING.           
+
+
+461
+00:35:12,210 --> 00:35:14,777
+            LIKE CLOCKWORK.     
+
+
+462
+00:35:14,846 --> 00:35:17,614
+<i>[ Sloane ]</i>                      
+<i>ANNIE, THERE'S SOMETHING</i>        
+<i>I WANT YOU TO DO FOR ME.</i>        
+
+
+463
+00:35:26,024 --> 00:35:30,827
+<i>ANNIE, TOP PRIORITY.</i>            
+<i>THERE'S SOMETHING I WANT YOU</i>    
+<i>TO DO FOR ME ON MY BOAT.</i>        
+
+
+464
+00:35:46,178 --> 00:35:48,511
+            [ Tape Rewinding ]  
+
+
+465
+00:35:50,282 --> 00:35:54,484
+    ANNIE, TOP PRIORITY.        
+    THERE'S SOMETHING I WANT YOU
+    TO DO FOR ME ON MY BOAT.    
+
+
+466
+00:35:55,820 --> 00:35:58,254
+<i>[ Sloane ]</i>                      
+<i>JUST WATCH, LISTEN</i>              
+<i>AND LEARN, JAROD.</i>               
+
+
+467
+00:35:58,323 --> 00:36:01,191
+    YOU WON'T SEE THIS KIND     
+    OF DISMANTLING AGAIN SOON.  
+
+
+468
+00:36:01,260 --> 00:36:03,894
+I'M LOOKING FORWARD             
+TO IT, SIR.                     
+
+
+469
+00:36:03,962 --> 00:36:06,329
+            WHAT ARE THE PRESS  
+            DOING HERE?         
+
+
+470
+00:36:06,398 --> 00:36:10,333
+        [ Reporters Clamoring ] 
+    THERE'S NOTHING I CAN SAY   
+    AT THIS POINT IN TIME.      
+
+
+471
+00:36:10,401 --> 00:36:13,536
+BUT I WILL SAY THAT THERE'S     
+GOING TO BE SOME SURPRISES.     
+
+
+472
+00:36:26,018 --> 00:36:28,718
+        THE DISTRICT COURTHOUSE.
+WHAT THE HELL?                  
+
+
+473
+00:36:28,787 --> 00:36:32,822
+    YOU DIDN'T SERIOUSLY THINK  
+    THE CENTRE WOULD CUT A DEAL 
+    WITH JAROD?                 
+
+
+474
+00:36:34,426 --> 00:36:37,426
+        DOUBLE DOUBLE CROSS,    
+        SYD. IT'S JUST BUSINESS.
+
+
+475
+00:36:45,604 --> 00:36:47,537
+HAVE A SEAT OVER THERE.         
+
+
+476
+00:36:49,540 --> 00:36:51,507
+WHAT THE HELL                   
+IS HE DOING HERE?               
+
+
+477
+00:36:51,576 --> 00:36:53,877
+            I INVITED HIM.      
+
+
+478
+00:36:57,582 --> 00:37:00,083
+<i>[ Judge ]</i>                       
+<i>ON THE RECORD IN</i>                
+PEOPLE VS. WHITTAKER,           
+
+
+479
+00:37:00,151 --> 00:37:02,885
+THE COURT HEARING A DEFENSE     
+MOTION TO PRESENT NEW EVIDENCE. 
+
+
+480
+00:37:02,954 --> 00:37:05,221
+MR. HOLMES.                     
+
+
+481
+00:37:05,290 --> 00:37:08,457
+<i>YOUR HONOR, MR. HOLMES</i>          
+<i>IS A JUNIOR ASSOCIATE</i>           
+<i>IN OUR FIRM.</i>                    
+
+
+482
+00:37:08,526 --> 00:37:10,459
+HE DOESN'T REPRESENT            
+THIS PARTICULAR CLIENT.         
+
+
+483
+00:37:10,528 --> 00:37:12,461
+        WITH ALL DUE RESPECT,   
+        YOUR HONOR,             
+        I WROTE THE MOTION,     
+
+
+484
+00:37:12,530 --> 00:37:14,664
+        AND I DID THE RESEARCH  
+        FOR THIS HEARING.       
+
+
+485
+00:37:14,732 --> 00:37:18,902
+TO ASSIGN IT TO ANOTHER ATTORNEY
+IS TO DENY MARCUS WHITTAKER     
+A CHANCE AT FAIR REPRESENTATION.
+
+
+486
+00:37:18,970 --> 00:37:21,571
+WHAT THE HELL                   
+DO YOU THINK YOU'RE DOING?      
+TRYING TO GET AN INNOCENT MAN...
+
+
+487
+00:37:21,640 --> 00:37:23,873
+        <i> A FAIR SHOT AT JUSTICE.</i>
+    THAT'S ENOUGH.              
+
+
+488
+00:37:23,942 --> 00:37:28,377
+<i>MR. WHITTAKER,</i>                  
+<i>IS THERE AN ATTORNEY</i>            
+<i>YOU'D LIKE TO REPRESENT YOU?</i>    
+
+
+489
+00:37:31,416 --> 00:37:33,349
+                JAROD.          
+
+
+490
+00:37:33,418 --> 00:37:36,886
+    - YOUR HONOR--              
+    - IT'S OVER, MR. SLOANE.    
+
+
+491
+00:37:36,955 --> 00:37:38,888
+CALL YOUR FIRST WITNESS,        
+MR. HOLMES.                     
+
+
+492
+00:37:38,956 --> 00:37:41,291
+                    <i> YOUR HONOR,</i>
+
+
+493
+00:37:41,359 --> 00:37:45,962
+        THE DEFENSE CALLS       
+        BENJAMIN SLOANE.        
+
+
+494
+00:37:46,031 --> 00:37:48,431
+<i>[ People Chattering ]</i>           
+            <i> [ Gavel Rapping ]</i>  
+
+
+495
+00:37:48,500 --> 00:37:52,602
+<i>MR. SLOANE, YOU REPRESENTED</i>     
+<i>MARCUS WHITTAKER TO THE VERY</i>    
+<i>BEST OF YOUR ABILITY.</i>           
+
+
+496
+00:37:52,671 --> 00:37:55,604
+        - IS THAT CORRECT?      
+        - ABSOLUTELY.           
+
+
+497
+00:37:55,673 --> 00:37:58,808
+AND TO THE BEST OF              
+YOUR KNOWLEDGE, NOTHING         
+SLIPPED THROUGH THE CRACKS?     
+
+
+498
+00:37:58,877 --> 00:38:02,612
+    THERE ARE NO CRACKS         
+    AT SLOANE AND ASSOCIATES.   
+<i>HMM.</i>                            
+
+
+499
+00:38:02,681 --> 00:38:06,949
+WOULD YOU EXPLAIN               
+YOUR RELATIONSHIP               
+WITH MICHAEL METZGER?           
+
+
+500
+00:38:09,187 --> 00:38:11,254
+            HE'S A CLIENT.      
+
+
+501
+00:38:11,323 --> 00:38:13,556
+WERE YOU AWARE THAT YOUR CLIENT 
+WAS CARRYING ON AN AFFAIR...    
+
+
+502
+00:38:13,625 --> 00:38:16,225
+WITH AUDREY PRICE               
+AT THE TIME OF THE MURDER?      
+
+
+503
+00:38:16,294 --> 00:38:20,931
+- DO YOU HAVE ANY PROOF OF THAT?
+- MARCUS WHITTAKER WOULD GLADLY 
+  TESTIFY TO IT UNDER OATH.     
+
+
+504
+00:38:20,999 --> 00:38:23,666
+            WHAT'S YOUR POINT,  
+            MR. HOLMES?         
+
+
+505
+00:38:23,735 --> 00:38:26,736
+NOW YOU WENT THROUGH            
+GREAT PAINS TO ESTABLISH        
+THE FACT...                     
+
+
+506
+00:38:26,804 --> 00:38:31,007
+THAT MICHAEL METZGER WAS A GUEST
+ON YOUR BOAT AT THE TIME        
+OF THE MURDER-- IS THAT CORRECT?
+
+
+507
+00:38:31,076 --> 00:38:34,811
+        I WOULDN'T CALL IT      
+        "GREAT PAINS."          
+        HE WAS THERE.           
+
+
+508
+00:38:34,880 --> 00:38:37,179
+DO YOU REMEMBER WHAT TIME       
+AUDREY PRICE WAS KILLED?        
+
+
+509
+00:38:37,248 --> 00:38:42,986
+        BETWEEN 9:00 AND 9:15,  
+        IF MEMORY SERVES ME.    
+<i>INTERESTING.</i>                    
+
+
+510
+00:38:43,055 --> 00:38:45,755
+THEN MAYBE                      
+YOU COULD TELL ME...            
+
+
+511
+00:38:45,823 --> 00:38:48,691
+WHY MR. METZGER MADE            
+A CELL PHONE CALL               
+TO YOUR BOAT...                 
+
+
+512
+00:38:48,760 --> 00:38:54,430
+AT 9:20 THE VERY SAME NIGHT     
+IF HE WAS WITH YOU.             
+
+
+513
+00:38:54,498 --> 00:38:56,866
+    MAY I SEE THAT, MR. HOLMES? 
+
+
+514
+00:39:01,773 --> 00:39:04,340
+    PROCEED.                    
+
+
+515
+00:39:04,409 --> 00:39:08,511
+FOR THE RECORD,                 
+THE D.A. HAS CATALOGED          
+THIS PHOTO...                   
+
+
+516
+00:39:08,579 --> 00:39:11,948
+AS A PARTIAL SHOE PRINT         
+FROM THE MURDER SCENE.          
+
+
+517
+00:39:12,016 --> 00:39:15,718
+MR. SLOANE, WOULD YOU EXPLAIN   
+TO THE COURT WHY THE JURY       
+NEVER SAW THIS PHOTOGRAPH?      
+
+
+518
+00:39:15,787 --> 00:39:18,989
+        <i> THE POLICE NEVER MADE</i>  
+        <i> A POSITIVE MATCH.</i>      
+
+
+519
+00:39:19,057 --> 00:39:21,124
+        IT PROVED NOTHING.      
+
+
+520
+00:39:21,192 --> 00:39:24,794
+        WELL, PERHAPS I COULD   
+        HELP THE POLICE OUT.    
+
+
+521
+00:39:24,862 --> 00:39:27,964
+IT'S A SIZE 11, DECK SHOE.      
+
+
+522
+00:39:28,033 --> 00:39:32,068
+<i>YOU WERE ON YOUR BOAT</i>           
+<i>THAT NIGHT, WEREN'T YOU,</i>        
+<i>MR. SLOANE?</i>                     
+
+
+523
+00:39:32,136 --> 00:39:35,738
+    [ Chuckles ]                
+    SO, NOW I'M THE KILLER?     
+<i>NO.</i>                             
+
+
+524
+00:39:35,807 --> 00:39:38,141
+YOU WERE THE JANITOR.           
+
+
+525
+00:39:38,209 --> 00:39:42,011
+WE'LL GET TO THE KILLER.        
+        YOUR HONOR, THIS IS     
+        POINTLESS HARASSMENT.   
+
+
+526
+00:39:42,080 --> 00:39:44,213
+                <i> [ Judge ]</i>      
+                <i> MR. HOLMES.</i>    
+<i>[ Door Closes ]</i>                 
+
+
+527
+00:39:44,282 --> 00:39:46,082
+        ONE MOMENT, PLEASE.     
+
+
+528
+00:39:50,889 --> 00:39:53,256
+<i>[ Annie ]</i>                       
+<i>MR. SLOANE'S ON TRIAL?</i>          
+<i>NOT OFFICIALLY.</i>                 
+
+
+529
+00:39:53,325 --> 00:39:55,891
+                NOT YET, ANYWAY.
+
+
+530
+00:40:02,333 --> 00:40:04,267
+        <i> [ Banging Desk ]</i>       
+
+
+531
+00:40:04,335 --> 00:40:06,435
+<i>I LOVE THIS PART.</i>               
+
+
+532
+00:40:07,773 --> 00:40:11,908
+        A SIZE 11 DECK SHOE...  
+
+
+533
+00:40:11,977 --> 00:40:14,076
+    FROM MR. SLOANE'S CLOSET.   
+
+
+534
+00:40:14,145 --> 00:40:16,712
+        - PROVES NOTHING.       
+        -<i> NO.</i>                   
+
+
+535
+00:40:16,781 --> 00:40:18,781
+        BUT THIS CERTAINLY DOES.
+
+
+536
+00:40:22,253 --> 00:40:24,587
+        THE MURDER WEAPON.      
+
+
+537
+00:40:24,655 --> 00:40:26,789
+<i>STAINED WITH</i>                    
+<i>THE VICTIM'S BLOOD.</i>             
+
+
+538
+00:40:26,858 --> 00:40:29,425
+MR. SLOANE, WOULD YOU CARE      
+TO EXPLAIN TO THE COURT...      
+
+
+539
+00:40:29,494 --> 00:40:33,462
+    WHAT THE LONG-LOST          
+    MURDER WEAPON WAS DOING     
+    ON YOUR BOAT?               
+
+
+540
+00:40:33,531 --> 00:40:35,932
+        [ Scoffs ]              
+        THIS IS RIDICULOUS.     
+
+
+541
+00:40:36,001 --> 00:40:38,667
+    I DON'T THINK THAT          
+    MICHAEL METZGER THINKS SO.  
+
+
+542
+00:40:38,736 --> 00:40:42,872
+YOU'VE BEEN BLACKMAILING HIM    
+WITH THIS SINCE                 
+THE MURDER TRIAL.               
+
+
+543
+00:40:44,375 --> 00:40:46,876
+MICHAEL METZGER BEAT            
+AUDREY PRICE TO DEATH.          
+
+
+544
+00:40:46,945 --> 00:40:50,280
+<i>AND THEN HE CALLED UPON</i>         
+<i>MR. SLOANE TO CLEAN UP THE MESS.</i>
+
+
+545
+00:40:50,348 --> 00:40:54,317
+<i>ONLY BEFORE YOU GOT THERE,</i>      
+<i>MR. WHITTAKER ARRIVED.</i>          
+
+
+546
+00:40:55,821 --> 00:40:58,387
+HE FOUND THE VICTIM.            
+ HE PANICKED.                   
+
+
+547
+00:40:58,456 --> 00:41:00,890
+HE RAN AWAY.                    
+
+
+548
+00:41:00,959 --> 00:41:04,260
+YOU ALLOWED AN INNOCENT MAN     
+TO GO TO JAIL.                  
+
+
+549
+00:41:06,331 --> 00:41:09,265
+<i>IF I'VE MISSED SOMETHING,</i>       
+<i>FEEL FREE TO JUMP IN.</i>           
+
+
+550
+00:41:11,002 --> 00:41:14,637
+    <i> YOUR HONOR, THERE HASN'T</i>   
+    <i> BEEN A PIECE OF EVIDENCE...</i>
+
+
+551
+00:41:14,706 --> 00:41:18,241
+        PRESENTED HERE THAT     
+        A GOOD DEFENSE ATTORNEY 
+        COULDN'T SHOOT DOWN.    
+
+
+552
+00:41:18,310 --> 00:41:20,943
+    THEN I SUGGEST              
+    YOU FIND A VERY GOOD ONE.   
+
+
+553
+00:41:21,012 --> 00:41:24,314
+<i>I'M ORDERING YOU INTO CUSTODY</i>   
+<i>AS AN ACCESSORY TO MURDER...</i>    
+
+
+554
+00:41:24,382 --> 00:41:27,650
+<i>AND ISSUING A BENCH WARRANT</i>     
+<i>FOR THE ARREST OF</i>               
+<i>MICHAEL METZGER.</i>                
+
+
+555
+00:41:27,718 --> 00:41:30,186
+            <i> COURT ADJOURNED.</i>   
+                <i> [ Gavel Raps ]</i> 
+
+
+556
+00:41:30,255 --> 00:41:33,022
+I DON'T KNOW WHAT KIND OF LAW   
+YOU'RE PRACTICING HERE.         
+
+
+557
+00:41:33,091 --> 00:41:37,093
+THE KIND OF LAW THAT APPLIES    
+TO MILLIONAIRES TOO.            
+
+
+558
+00:41:41,566 --> 00:41:45,300
+<i>CONGRATULATIONS, MARCUS.</i>        
+<i>YOU'RE A FREE MAN.</i>              
+
+
+559
+00:42:00,551 --> 00:42:03,819
+        GO, SAM. WE'LL HEAD     
+        HIM OFF DOWNSTAIRS.     
+
+
+560
+00:42:06,624 --> 00:42:09,158
+        [ Monitor Beeping ]     
+HEY, HOLD IT RIGHT THERE!       
+
+
+561
+00:42:09,226 --> 00:42:12,628
+YOU DON'T UNDERSTAND.           
+I HAVE A PERMIT TO CARRY THAT.  
+
+
+562
+00:42:15,433 --> 00:42:18,400
+        EXCUSE ME. EXCUSE ME.   
+        OUT OF MY WAY!          
+
+
+563
+00:42:20,238 --> 00:42:22,671
+    THAT WAY.                   
+
+
+564
+00:42:22,740 --> 00:42:25,074
+JAROD!                          
+
+
+565
+00:42:56,307 --> 00:42:58,308
+            DAMN IT!            
+
+
+566
+00:43:00,812 --> 00:43:04,514
+    NEXT TIME I'M JUST GONNA    
+    SHOOT THE LITTLE PAIN       
+    IN THE ASS.                 
+
+
+567
+00:43:18,863 --> 00:43:21,698
+<i>[ Horn Honking ]</i>                
+
+
+568
+00:43:21,766 --> 00:43:24,633
+<i>GET IN THE CAR.</i>                 
+
+
+569
+00:43:27,538 --> 00:43:30,139
+    <i> [ Engine Not Turning Over ]</i>
+
+
+570
+00:43:43,688 --> 00:43:46,188
+    RIGHT THIS WAY,             
+    MR. METZGER.                
+
+
+571
+00:43:46,257 --> 00:43:49,559
+        LOOK, I WANNA SEE       
+        MY ATTORNEY, ALL RIGHT? 
+
+
+572
+00:43:49,627 --> 00:43:52,828
+        I SAID, I WANNA SEE     
+        MY ATTORNEY!            
+
+
+573
+00:43:52,897 --> 00:43:55,030
+                [ Policeman ]   
+                YOU'RE IN LUCK. 
+
+
+574
+00:44:02,006 --> 00:44:04,273
+        <i> [ Gate Alarm Buzzing ]</i> 
+
+
+575
+00:44:13,084 --> 00:44:15,017
+[ Woman ]                       
+EXCUSE ME.                      
+
+
+576
+00:44:18,022 --> 00:44:19,956
+<i>[ Whistling ]</i>                   
+
+
+577
+00:44:32,737 --> 00:44:34,470
+                    MOM!        
+
+
+578
+00:44:34,539 --> 00:44:37,774
+            [ Laughing ]        
+
+
+579
+00:44:37,842 --> 00:44:40,009
+            HOW'D YOU GET HERE? 
+
+
+580
+00:44:40,078 --> 00:44:42,144
+        A MAN SENT ME A TICKET. 
+
+
+581
+00:44:50,121 --> 00:44:52,321
+<i>[ Mom ]</i>                         
+<i>WHAT IS IT?</i>                     
+
+
+582
+00:44:53,458 --> 00:44:55,391
+IT'S A PAPER CLOCK.             
+
+
+583
+00:44:57,728 --> 00:45:01,863
+    "NOW YOU HAVE ALL THE TIME  
+     IN THE WORLD.              
+
+
+584
+00:45:01,932 --> 00:45:04,867
+        "CHERISH YOUR FREEDOM,  
+         MARCUS.                
+
+
+585
+00:45:04,936 --> 00:45:07,369
+        YOUR PEN PAL, JAROD."   
+
+
+586
+00:45:17,482 --> 00:45:19,415
+HOLD ON TO IT NOW.              
+RIGHT THERE.                    
+
+
+587
+00:45:19,484 --> 00:45:21,818
+<i>YOU ALL RIGHT?</i>                  
+                <i> [ Jarod ]</i>      
+                <i> EIGHT SECONDS?</i> 
+
+
+588
+00:45:21,886 --> 00:45:23,720
+                    THAT'S IT?  
+        UH-HUH.                 
+
+
+589
+00:45:23,788 --> 00:45:26,855
+- EIGHT SECONDS? EIGHT SECONDS? 
+- [ Lowing ]                    
+
+
+590
+00:45:28,293 --> 00:45:31,427
+    - LET HER RIP.              
+    -<i> [ Alarm Sounding ]</i>        
+
+
+591
+00:45:31,495 --> 00:45:36,031
+<i>[ Announcer ] HO! WATCH THAT</i>    
+<i>BULL FLY RIGHT OUT OF THERE,</i>    
+<i>LADIES AND GENTLEMEN!</i>           
+
+
+592
+00:45:36,100 --> 00:45:38,501
+<i>WHAT A RIDE!</i>                    
+
+
+593
+00:46:11,202 --> 00:46:12,201
+            [ Mews ]            
+
+

@@ -1,63 +1,63 @@
-# The Pretender - Subtitles
+# 伪装者 (The Pretender) - 字幕
 
-Subtitles for the TV series **The Pretender** (1996–2000).
+美剧《**伪装者**》(*The Pretender*, 1996–2000) 字幕文件。
 
-## About the Show
+## 关于本剧
 
-*The Pretender* is an American action drama television series created by Steven Long Mitchell and Craig W. Van Sickle, that aired on NBC for four seasons from September 19, 1996, to May 13, 2000. The series ran for a total of 86 episodes across 4 seasons.
+《伪装者》（*The Pretender*）是由 Steven Long Mitchell 和 Craig W. Van Sickle 创作的美国动作剧情电视剧，于 1996 年 9 月 19 日至 2000 年 5 月 13 日在 NBC 播出，共 4 季 86 集。
 
-The series follows Jarod, a genius "Pretender" who can quickly master any profession. Kidnapped as a child by The Centre — a sinister think tank in the fictional Blue Cove, Delaware — Jarod escapes as an adult and goes on the run. In each episode, he assumes a new identity to investigate crimes and deliver justice, all while being pursued by a trio of Centre agents: Miss Parker, Sydney, and Broots.
+本剧讲述了天才"伪装者"杰洛德（Jarod）的故事。杰洛德能够迅速掌握任何职业技能，幼年时被一个名为"中心"（The Centre）的神秘机构绑架，在虚构的特拉华州蓝湾（Blue Cove）长大。成年后他成功逃脱，此后在每一集中都以不同身份出现，调查各类犯罪并伸张正义，同时躲避"中心"派出的追捕者——帕克小姐（Miss Parker）、悉尼（Sydney）和布鲁茨（Broots）。
 
-After cancellation, two television films — *The Pretender 2001* and *Island of the Haunted* — aired on TNT in 2001.
+该剧被取消后，2001 年在 TNT 播出了两部电视电影——《伪装者 2001》(*The Pretender 2001*) 和《闹鬼之岛》(*Island of the Haunted*)。
 
-📖 More info: [The Pretender on Wikipedia](https://en.wikipedia.org/wiki/The_Pretender_(TV_series))
+📖 更多信息：[伪装者 - 维基百科（中文）](https://zh.wikipedia.org/wiki/%E4%BC%AA%E8%A3%85%E8%80%85_(%E7%BE%8E%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7)) | [The Pretender - Wikipedia (English)](https://en.wikipedia.org/wiki/The_Pretender_(TV_series))
 
-## About These Subtitles
+## 关于本字幕
 
-The **English subtitles** are extracted from the built-in DVD subtitles. The **Chinese subtitles** are machine-translated from the English version and may contain inaccuracies.
+**英文字幕**提取自 DVD 内置字幕。**中文字幕**由英文版机器翻译而来，可能存在翻译不准确之处。
 
-These subtitles are **timed specifically** for a particular video source. They may **not** sync correctly with other versions of the show.
+本字幕是**针对特定视频源**制作的时间轴，与其他版本的视频可能**无法同步**。
 
-### Matching Video Source
+### 对应视频源
 
-| Property       | Value              |
-| -------------- | ------------------ |
-| **Resolution** | 480p               |
-| **Video**      | MPEG Video         |
-| **Audio**      | AC3 2.0            |
-| **Type**       | Remuxed            |
+| 属性     | 值                 |
+| -------- | ------------------ |
+| **分辨率** | 480p               |
+| **视频编码** | MPEG Video         |
+| **音频编码** | AC3 2.0            |
+| **类型**   | Remuxed            |
 
-### Download Links (Video Source)
+### 视频源下载地址
 
-**Torrent Pages:**
+**种子页面：**
 
-- Season 1: <https://1337x.to/torrent/4578470/The-Pretender-Season-1-Remuxed/>
-- Season 2: <https://1337x.to/torrent/4579930/The-Pretender-Season-2-Remuxed/>
-- Season 3: <https://1337x.to/torrent/4591552/The-Pretender-Season-3-Remuxed/>
-- Season 4: <https://1337x.to/torrent/4609515/The-Pretender-Season-4-Remuxed/>
+- 第一季：<https://1337x.to/torrent/4578470/The-Pretender-Season-1-Remuxed/>
+- 第二季：<https://1337x.to/torrent/4579930/The-Pretender-Season-2-Remuxed/>
+- 第三季：<https://1337x.to/torrent/4591552/The-Pretender-Season-3-Remuxed/>
+- 第四季：<https://1337x.to/torrent/4609515/The-Pretender-Season-4-Remuxed/>
 
 <details>
-<summary><b>Magnet Links</b> (click to expand)</summary>
+<summary><b>磁力链接</b>（点击展开）</summary>
 
-**Season 1:**
+**第一季：**
 
 ```
 magnet:?xt=urn:btih:4AB10A729E1E81CD47412B7EF473039FFEBEB203&dn=The+Pretender+-+Season+1+%5BRemuxed%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
 ```
 
-**Season 2:**
+**第二季：**
 
 ```
 magnet:?xt=urn:btih:9BA6F1541C214C93C1F6C5E9CA23BFD1440C8B99&dn=The+Pretender+-+Season+2+%5BRemuxed%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
 ```
 
-**Season 3:**
+**第三季：**
 
 ```
 magnet:?xt=urn:btih:74B51666B1054876FD9C35CE7189CB66B10698A9&dn=The+Pretender+-+Season+3+%5BRemuxed%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
 ```
 
-**Season 4:**
+**第四季：**
 
 ```
 magnet:?xt=urn:btih:6920F0D93B1D42573B500457CF5E5C8A86D17E73&dn=The+Pretender+-+Season+4+%5BRemuxed%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
@@ -65,16 +65,16 @@ magnet:?xt=urn:btih:6920F0D93B1D42573B500457CF5E5C8A86D17E73&dn=The+Pretender+-+
 
 </details>
 
-## Usage
+## 使用方法
 
-1. Download the matching video source listed above.
-2. Download the `.srt` subtitle files from this repository.
-3. Place the subtitle file in the same directory as the corresponding video file.
-4. Rename the subtitle file to match the video file name (e.g., if the video is `The.Pretender.S01E01.avi`, rename the subtitle to `The.Pretender.S01E01.srt`).
-5. Most modern video players (VLC, MPC-HC, PotPlayer, etc.) will automatically load the subtitle.
+1. 下载上方列出的对应视频源。
+2. 从本仓库下载 `.srt` 字幕文件。
+3. 将字幕文件放置在对应视频文件的同一目录下。
+4. 将字幕文件重命名为与视频文件相同的名称（例如，视频文件为 `The.Pretender.S01E01.avi`，则将字幕重命名为 `The.Pretender.S01E01.srt`）。
+5. 大多数主流播放器（VLC、MPC-HC、PotPlayer 等）会自动加载同名字幕。
 
-> ⚠️ **Note:** These subtitles are synced to the specific video source described above. If you use a different version, you may need to adjust the timing using tools like [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit) or [Aegisub](https://aegisub.org/).
+> ⚠️ **注意：** 本字幕的时间轴仅适配上述特定视频源。如果您使用其他版本的视频，可能需要使用 [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit) 或 [Aegisub](https://aegisub.org/) 等工具调整时间轴。
 
-## Disclaimer
+## 免责声明
 
-This repository contains only subtitle text files. No video content is hosted or distributed here. All video download links are provided solely as a reference for matching the correct subtitle timing.
+本仓库仅包含字幕文本文件，不托管或分发任何视频内容。所有视频下载链接仅作为字幕时间轴匹配的参考。
