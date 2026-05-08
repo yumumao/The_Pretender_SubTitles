@@ -1,5 +1,7 @@
 # The Pretender - Subtitles
 
+> 🌏 [中文版 README](./README_cn.md)
+
 Subtitles for the TV series **The Pretender** (1996–2000).
 
 ## About the Show

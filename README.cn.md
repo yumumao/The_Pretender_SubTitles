@@ -1,5 +1,7 @@
 # 伪装者 (The Pretender) - 字幕
 
+> 🌏 [ENGLISH README](./README.md)
+
 美剧《**伪装者**》(*The Pretender*, 1996–2000) 字幕文件。
 
 ## 关于本剧
